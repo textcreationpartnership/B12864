@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation concerning vvyer, threed, and other manufactures made of gold and siluer.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12864</idno>
+            <idno type="STC">STC 8711</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[108]</idno>
+            <idno type="STC">ESTC S100902</idno>
+            <idno type="EEBO-CITATION">99891146</idno>
+            <idno type="PROQUEST">ocm99891146</idno>
+            <idno type="VID">185835</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185835)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[108])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation concerning vvyer, threed, and other manufactures made of gold and siluer.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by Bonham Norton and Iohn Bill, printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M. DC. XXIII. [1623]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Greenwich, the sixteenth day of Iune, in the one and twentieth yeere of our reigne ..</note>
+                  <note>Arms 14; Steele notation: to  to  2) what-  of.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goldwork --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Silverwork --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185835:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>woodcut of England's coat of arms, 1609</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT.</p>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head>¶ A Proclamation concerning Wyer, Threed, and other Manufactures made of Gold and Siluer.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings moſt Excellent Maieſtie, being carefull and deſirous to</hi> preuent and auoid all vnneceſſary waſte and conſumption of Coyne and Bullion within this Realme, hath publiſhed ſundry Proclamations, for ſuppreſſing all irregular and vnlawfull Melting and Fining of Gold and Siluer, and the making of Gold and Siluer Threed, Gold and Siluer Foliat, and other Manufactures, whereupon much Coyne and Bullion was found to be conſumed: But not finding any amendment anſwerable to his gracious expectation, for that the offendors, being many of them ve<g ref="char:EOLhyphen"/>ry poore, and making their whole gaine and liuing thereby, did aduenture, againſt all Law and Authoritie, to continue their workes, though in a more ſecret and cloſe manner then before. And therefore his Maieſtie, vpon mature aduice with his Priuie Counſel, finding it a matter of ſo much difficultie vtterly to ſuppreſſe thoſe Manufactures, as that it was not to bee effected without much ſeueritie and rigor to many of the poorer ſort of his Subiects, hath reſolued of a more moderate and fitting courſe, by reducing thoſe Trades vnder order and gouernement, whereby the incon<g ref="char:EOLhyphen"/>ueniences may be preuented, and yet the Trades (being the liuelyhood of ſo many men) not wholly baniſhed: And to that intent his Maieſtie, by aduice of the Lords, and others of His Priuie Coun<g ref="char:EOLhyphen"/>ſell, hath granted a Charter of incorporation to the Gouernour, Aſſiſtants, and Commonaltie of Gold-Wyer-drawers of the Citie of London, conteining ſundry politique and good Rules and Or<g ref="char:EOLhyphen"/>ders, aſwell for preſeruing of Coyne and Bullion, as for regulating the ſaid Trades, and auoyd<g ref="char:EOLhyphen"/>ing ſuch deceits as may ariſe thereby to his Maieſties Subiects.</p>
+            <p>For the better ſtrengthening whereof, his Maieſtie doth hereby ſtraitly charge and command, Firſt, that no perſon or perſons whatſoeuer, (except ſuch as are, or ſhall be of the ſayd Company, or Corporation) doe at any time hereafter vſe, exerciſe, or put in practiſe any the Trades, Myſteries, or Manufactures of ſpinning, or making of Gold and Siluer Threed, Purles, Plates, Oes, Spangles, or Foliat, or the drawing of Wyer for any of thoſe vſes or purpoſes, or for Damaſking, or inlaying, or the drawing of Wyer for Cloth of Gold or Siluer, or doe, or put in practiſe any other thing belong<g ref="char:EOLhyphen"/>ing to the Art of a Gold or Siluer Wyer-drawer, or doe Melt, Fine, Prepare or diſgroſſe any Gold or Siluer for any of the vſes aforeſayd, or doe ſet vp any Milles, Engines or Inſtruments for, or to the vſes or purpoſes aforeſayd, or any of them.</p>
+            <pb facs="tcp:185835:2"/>
+            <p>Secondly, That no perſon or perſons of the ſaid Company or Corporation, nor any other what<g ref="char:EOLhyphen"/>ſoeuer, doe at any time hereafter make within this Realme of England, or import, or cauſe to be im<g ref="char:EOLhyphen"/>ported into the ſame, or any part thereof, any Gold or Siluer Threed, or Wyer, being counterfeit ſtuffe, or made of baſe Golde or Siluer.</p>
+            <p>Thirdly, That no perſon or perſons whatſoeuer, now being, or which hereafter ſhall be of the ſaid Corporation, doe or ſhall make, buy, ſell, vtter, or put to ſale any Gold or Siluer Wyer or Threed, but according to ſuch Powers, Limitations and Prouiſions, as are mentioned and contained in the Charter made to the ſaid Corporation. And that no perſon or perſons whatſoeuer, doe or ſhall buy or ſell, or cauſe to be bought, vttered or ſolde, any Gold or Siluer Wyer, or Threed, before the ſame be ſealed with the Seale for that purpoſe, to be appointed according to the intent of the ſaid Charter, vpon paine, that all perſon and perſons offending in any the premiſſes, contrary to his Maieſties Pleaſure herein expreſſed, ſhall incurre his Maieſties indignation and cenſure in his high Court of Starre-Chamber, &amp; ſuch further puniſhment by impriſonment, or otherwiſe, as may by the Lawes and Statutes of this Realme, or his Maieſties Prerogatiue Royall be inflicted vpon them for their offences, and contempt of His Maieſties Royall Commandement.</p>
+            <p>And His Maieſtie doeth hereby Command, and giue power and Authoritie vnto His Attourney Generall, for the time being, vpon Information giuen vnto him of any offendors in any the premiſ<g ref="char:EOLhyphen"/>ſes, to proſecute all and euery the ſaid offendors in the ſaid Court of Starre-chamber, that they may be there cenſured and puniſhed according to their demerits.</p>
+            <p>And His Maieſtie doeth further by theſe Preſents will and require the Lord Mayor of the City of London, for the time being, and all other Mayors, Sheriffes, Bayliffes, Conſtables, Headbo<g ref="char:EOLhyphen"/>roughs, and other Officers and miniſters of His Maieſtie, his Heires and Succeſſors, to ſee that this His Maieſties Proclamation be in all points executed, and to be aiding and aſſiſting vnto the ſaid Go<g ref="char:EOLhyphen"/>uernour, Aſſiſtants and Communaltie, and their ſucceſſors, and vnto ſuch perſon and perſons, as by them or any of them ſhall be aſſigned and appointed, in and about the due execution of the foreſaid Charter to them granted, or any thing contained therein, as they tender His Maieſties Pleaſure; Any former Proclamation, or any prouiſion, reſtraint, matter, or thing whatſoeuer to the contrary of the premiſſes, or any of them, in any wiſe notwithſtanding.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Greenwich,<date> the ſixteenth day of Iune, in the one and twentieth yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. M.DC.XXIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
